@@ -1,7 +1,9 @@
 {
   "type": "module",
   "dependencies": {
-    "firebase": "^11.3.0"
+    "firebase": "^11.3.0",
+    "react-router-dom": "^7.1.5",
+    "web-vitals": "^4.2.4"
   },
   "scripts": {
     "start": "node index.js"
